@@ -1,5 +1,5 @@
 - Hello, I’m Paul
-- I am currently a professor at Middlesex College
+- I am currently a professor at St. Joseph's and La Salle Universities.
 - My primary skillset consists of JavaSript ES6, React, Node, Java, Python, Ruby on Rails, HTML, and MySQL.
 - This is how you can reach me! By email, pghayad@gmail.com
 
